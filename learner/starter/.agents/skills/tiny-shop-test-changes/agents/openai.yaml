@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tiny Shop Test Changes"
+  short_description: "Test Tiny Shop functionality changes"
+  default_prompt: "Use $tiny-shop-test-changes to implement this Tiny Shop Checkout functionality change, update focused tests, and run the full test suite."
